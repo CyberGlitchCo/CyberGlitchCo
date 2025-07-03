@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Software Programming, Accounting, and Gaming ...
 - 🌱 I’m currently learning Front End Development, then im learning Backend & DevOps
 - 💞️ I’m looking to collaborate on anything to expand my viewpoints in life...
-- 📫 How to reach me: CyberHeavenLLC@gmail.com
+- 📫 How to reach me: ****@gmail.com
 - ⚡ Fun fact: I can speak 7 languages, 3 very good, 2 at a mid-level, and 2 still at the beginning
 
 <!---
